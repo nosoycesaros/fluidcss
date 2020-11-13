@@ -1,5 +1,5 @@
 # FluidCSS
-![FluidCSS_banner](https://raw.githubusercontent.com/nikhilmwarrier/fluidcss/main/res/fluidcss%20-%20banner.png)
+![FluidCSS_banner](https://raw.githubusercontent.com/nikhilmwarrier/fluidcss/gh-pages/res/fluidcss.png)
 
 A minimal, hackable css library with responsive design in mind.
 ***
