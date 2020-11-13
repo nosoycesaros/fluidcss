@@ -52,6 +52,8 @@ body {
   font-family: var(--sans-serif-font);
   font-size: 1.2rem;
   color: var(--text-color);
+  scrollbar-color: var(--accent-color) var(--border-color);
+  scrollbar-width: normal;
 }
 
 .container {
@@ -308,6 +310,8 @@ aside {
   width: var(--aside-width);
   border-right: 1px solid var(--border-color);
   overflow-y: auto;
+  scrollbar-color: var(--accent-color) var(--border-color);
+  scrollbar-width: normal;
 }
 
 aside p,
